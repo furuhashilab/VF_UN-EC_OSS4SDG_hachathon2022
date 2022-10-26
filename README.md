@@ -4,6 +4,7 @@
 ### メンバー
 * Natsumi Haga
 * Naoya Uematsu
+* Shiori Uehara
 ### テーマ
 * YouthMappersAGU部、デザイン部、ドローン部のチームの動画コンテンツを制作する。
 ### 具体的にやること
